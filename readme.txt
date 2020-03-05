@@ -8,4 +8,4 @@ I will master it soon!
 
 hahahahahah!~~~
 
-Git tracks changes!
+Git tracks changes of files!
