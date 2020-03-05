@@ -9,3 +9,7 @@ I will master it soon!
 hahahahahah!~~~
 
 Git tracks changes of files!
+
+Maybe I have already learnt it!
+
+*It so cool*
