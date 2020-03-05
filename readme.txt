@@ -7,3 +7,5 @@ GIT is so great !
 I will master it soon!
 
 hahahahahah!~~~
+
+Git tracks changes!
