@@ -12,4 +12,4 @@ Git tracks changes of files!
 
 Maybe I have already learnt it!
 
-*It so cool*
+*It so cool
